@@ -33,6 +33,7 @@ A fun personal project inspired by my role as a barista. BaristaBot answers ques
 💻 **Tech:** Java (CLI right now) & Open AI GPT API
 
 ⚙️ **Current AI Capabilities:**
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 Integrated real-time chatbot using the GPT API

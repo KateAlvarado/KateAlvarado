@@ -9,7 +9,7 @@ I'm a Computer Science student passionate about **AI**, **machine learning**, an
 * 🎓 CS student (early in my journey but love seeking opportunities for hands-on imporvement)
 * 📚 Currently learning: Java, web development, AI fundamentals, security concepts
 * 🧠 Research interests: LLMs, behavioral security, AI ethics, cognitive factors in tech
-* ☕ Fun fact: I'm a barista — and yes, I love coffee enough to build a bot about it
+* ☕ Fun fact: I'm a barista — I love coffee enough to build a bot about it
 
 ---
 

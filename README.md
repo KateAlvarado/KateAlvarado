@@ -21,6 +21,7 @@ I'm a Computer Science student passionate about **AI**, **machine learning**, an
 
 **Current Focus:** Object-oriented programming, software design, AI literacy, cybersecurity basics
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ## 🔧 Featured Projects
@@ -32,6 +33,7 @@ A fun personal project inspired by my role as a barista. BaristaBot answers ques
 💻 **Tech:** Java (CLI right now) & Open AI GPT API
 
 ⚙️ **Current AI Capabilities:**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 Integrated real-time chatbot using the GPT API
 
@@ -70,7 +72,7 @@ Custom drink builder interface
 ---
 
 ## 📫 Connect With Me
-
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 * **LinkedIn:** www.linkedin.com/in/katealvarado16
 * **Email:** katealva16@yahoo.com
 

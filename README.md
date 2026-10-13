@@ -66,7 +66,7 @@ Custom drink builder interface
 ## 📌 What I'm Working On
 
 * Improving my GitHub workflow: commits, branches, documentation
-* Strengthening Java fundamentals
+* Strengthening Java and Python fundamentals
 * Building more portfolio-ready projects
 * Learning about LLMs, phishing, and cognitive security concepts to aid in a research project
 
